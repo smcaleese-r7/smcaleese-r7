@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @smcaleese-r7, I'm a Software Engineering Intern at Rapid7 in Dublin, Ireland.
